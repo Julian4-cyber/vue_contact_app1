@@ -16,7 +16,7 @@
         I have abilities to move quickly on the PC's keyboard, often I'm creative in solution problems, and almost always I'm an obsesive person with the details.
       </p>
       <p class="text-muted">
-        For Contact me <br>
+        <strong> Contact me </strong><br>
         Number phone: 984 185 3344 <br>
         Email: 2414002@utrivieramaya.edu.mx
       </p>

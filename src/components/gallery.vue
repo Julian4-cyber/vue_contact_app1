@@ -4,7 +4,7 @@
     <div class="row g-4">
       <div class="col-md-4">
         <div class="card h-100 shadow-sm border-0 bg-dark text-white">
-          <img src="https://via.placeholder.com/400x300/000000/FFFFFF?text=Logo+Producciones" class="card-img-top p-3" alt="Producciones">
+          <img src="../assets/images/" class="card-img-top p-3" alt="Producciones">
           <div class="card-body">
             <h5 class="card-title fw-bold text-warning">PRODUCCIONES</h5>
             <p class="card-text small text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officia, praesentium architecto soluta laborum omnis.</p>

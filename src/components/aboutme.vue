@@ -23,7 +23,7 @@
   </div>
 </template>
 
-<script setup>
+<script>
 // Aquí puedes agregar lógica o propiedades si lo requieres en el futuro
 </script>
 </template>

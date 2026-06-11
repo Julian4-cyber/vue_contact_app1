@@ -8,7 +8,7 @@
     </div>
     
     <div class="col-md-8">
-      <h3 class="fw-bold mb-3">Sobre mi</h3>
+      <h3 class="fw-bold mb-3">About Me</h3>
       <p class="text-muted">
         I born in July 4th, 2006 in Cancun, Mexico. I'm a person who live with Spectrum Autist Disorder and ADHD.
       </p>

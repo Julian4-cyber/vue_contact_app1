@@ -1,6 +1,6 @@
 <template>
   <div class="container py-5">
-    <h2 class="text-center fw-bold mb-5">Galeria de Proyectos</h2>
+    <h2 class="text-center fw-bold mb-5">Gallery</h2>
     <div class="row g-4">
       <div class="col-md-4">
         <div class="card h-100 shadow-sm border-0 bg-dark text-white">

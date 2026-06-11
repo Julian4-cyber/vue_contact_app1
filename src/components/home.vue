@@ -1,5 +1,5 @@
 <template>
-<nav class="navbar fixed-top bg-body-tertiary" style="background-color: blue;">
+<nav class="navbar fixed-top bg-primary" data-bs-theme="dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Portfolio</a>
     <ul class="nav justify-content-end">

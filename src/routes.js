@@ -1,4 +1,4 @@
-// Apoyo de la IA de Google - Gemini: https://gemini.google.com/share/35454c1d2588
+// Apoyo de la IA de Google - Gemini: https://gemini.google.com/share/c71b15b44502
 
 import aboutme from "./components/aboutme.vue";
 import gallery from "./components/gallery.vue";

@@ -3,7 +3,7 @@
     <div class="col-md-4 text-center mb-4 mb-md-0">
       <img src="../assets/images/Mi foto Julian.jpeg" class="img-fluid rounded shadow-sm mb-2" alt="Foto de perfil" style="max-width: 260px; width: 100%; height: auto;">
       <p class="fw-bold text-secondary mt-2 mb-0">
-        Julián Jiménez Valdez
+        <strong>Julián Jiménez Valdez</strong> 
       </p>
     </div>
     
